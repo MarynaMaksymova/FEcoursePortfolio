@@ -387,7 +387,7 @@ body {
     background-color: #8e61d5;
     top: 60px;
     width: 0;
-    left: 200px;
+    left: 50%;
 }
 
 .about-me-dot {
@@ -396,7 +396,7 @@ body {
     height: 32px;
     border-radius: 50%;
     background-color: #fff;
-    
+    margin-left: -16px;
     left: 50%;
     top: 49px;
 }
